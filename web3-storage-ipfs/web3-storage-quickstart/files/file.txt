@@ -1,0 +1,6 @@
+Today is Thursday
+20th January
+
+Sample Project Appscrip
+
+node put-files.js --token=<YOUR_TOKEN> ~/filename
